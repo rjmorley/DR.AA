@@ -3,7 +3,7 @@ Software Development project!
 
 Description of our project: We made an iOS app that allows you to find recipes for mixed drinks based on the alcohol you select. The app was intended for college students (but anyone can use it) becuase college students tend to have a little knowledge on all the possiblilties they can create for mixed drinks. Within the app, you can save your favorite drinks or find new ones. 
 
-How to run code: 
+How to run code: To run our code, you can open the source code in Xcode and use the built in simulator to see it in action.
 
 Test Cases
 
